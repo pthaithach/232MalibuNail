@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Malibu Nail Lounge",
+        "slug"      : "Malibu-nail-lounge",
+        "phone"     : "(936) 224-5380", 
+        "email"     : "mnails22222@gmail.com",
+        "address"   : "1135 Grand Central Pkwy, Ste. 100 Concore, Texas 77304",
+        "time_1"    : "[Mon - Sat] 09:00 AM - 07:00 PM",
+        "time_2"    : "[Sun] 11:00 AM - 06:00 PM"
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/MalibuNailLounge",
+        "instagram" :   "https://www.instagram.com/malibu_nail_lounge",
+        "google"    :   "#",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NTExMjd8bWFsaWJ1MTEzNXxUWF8wODI0NHxkNGQzMGJmOGFkNTcyMGUzMWVmOWIzZDgzYjJlYjg2MQ==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3445.9785341687552!2d-95.46203914878001!3d30.266192814927415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86473999b65d8cfb%3A0x7a4aeb04a90003ff!2s1135%20Grand%20Central%20Parkway%20%23100%2C%20Conroe%2C%20TX%2077304%2C%20USA!5e0!3m2!1sen!2s!4v1669362483375!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#d16c65",
+        "primary_light"         :   "#cbdfd2",
+        "primary_hover"         :   "#b25b54",
+        "secondary"             :   "#ffd86c",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":    "on",
+    "path_image":   "img/",
+    "domain":       "https://pthaithach.github.io/232Malibu/"
+}
